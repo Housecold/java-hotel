@@ -41,7 +41,7 @@ The UML diagram below provides a structural overview of the classes involved:
 
 ## Requirements
 
-- Java Development Kit (JDK) 8 or above.
+- Java Development Kit (JDK) 17 or above.
 - A Java IDE like IntelliJ IDEA, or any other of your choice.
 
 ## Installation
